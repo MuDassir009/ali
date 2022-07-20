@@ -500,7 +500,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;32m [1] First SUBSCRIBE MY CHANNEL ")
+		print("\033[1;32m [1] First FOLLOW MY FB ACCOUNT ")
 		print("\033[1;35m [2] Exit")
 		print("")
 		Baloch = input("\n\033[1;31m  Chose  \033[1;32m")
@@ -510,7 +510,7 @@ class Main:
 			print("    Thanks♥️")
 			exit()
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/channel/UCUfuxZE99OfS76bCrCWyqJg")
+			os.system("xdg-open https://www.facebook.com/veerkhano71")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Checking Subsacribetion")
